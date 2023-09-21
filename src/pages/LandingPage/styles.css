@@ -1,0 +1,19 @@
+.filters {
+  display: flex;
+  align-items: center;
+}
+
+.list-view {
+  margin-top: 24px;
+  cursor: pointer;
+  width: 50%;
+}
+
+.sort-icon {
+  cursor: pointer;
+  margin-left: 12px;
+}
+
+.sort-icon-direc {
+  transform: rotate(180deg);
+}

@@ -1,0 +1,21 @@
+.app-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.app-logo {
+  height: 36px;
+  pointer-events: none;
+}
+
+.app-header-title {
+  margin-left: 30%;
+  font-weight: 600;
+  font-size: 36px;
+}

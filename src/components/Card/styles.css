@@ -1,0 +1,23 @@
+.card-container {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding: 16px;
+  display: flex;
+  color: #eee;
+  margin: 12px;
+}
+
+.product-image {
+  border-radius: 10px;
+}
+
+.product-description-div {
+  margin-left: 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.subs-text {
+  color: green;
+}

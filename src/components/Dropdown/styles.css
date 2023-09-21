@@ -1,0 +1,10 @@
+.dropdown-container {
+  border-radius: 10px;
+  width: 200px;
+}
+
+.dropdown-container .dropdown {
+  height: 36px;
+  width: 200px;
+  font-size: 20px;
+}

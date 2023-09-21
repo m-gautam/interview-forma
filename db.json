@@ -2,14 +2,13 @@
   "vendors": [
     {
       "id": "v1",
-      "name": "24 Hour Fitness",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "products": [
         {
-          "name": "1 month membership",
+          "name": "Lifetime membership",
           "price": 12.99,
           "image_url": "https://res.cloudinary.com/dfkxpkzqx/image/fetch/c_lfill,dpr_2.0,f_auto,h_190/https://storage.googleapis.com/assets.twicapp-production.twic.ai/vendors/trx/Vendor_Cover_TRX.png",
-          "is_subscription": true
+          "is_subscription": false
         },
         {
           "name": "1 year membership",
@@ -17,11 +16,12 @@
           "image_url": "https://res.cloudinary.com/dfkxpkzqx/image/fetch/c_lfill,dpr_2.0,f_auto,h_190/https://storage.googleapis.com/assets.twicapp-production.twic.ai/vendors/trx/TRX_Product_2_1.png",
           "is_subscription": true
         }
-      ]
+      ],
+      "name": "Gym 24"
     },
     {
       "id": "v2",
-      "name": "Calm",
+      "name": "Calm App",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
       "products": [
         {
@@ -34,7 +34,6 @@
     },
     {
       "id": "v3",
-      "name": "Peleton",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "products": [
         {
@@ -44,12 +43,51 @@
           "is_subscription": true
         },
         {
-          "name": "1 year membership",
+          "name": "Lifetime membership",
           "price": 199.99,
           "image_url": "https://res.cloudinary.com/dfkxpkzqx/image/fetch/c_lfill,dpr_2.0,f_auto,h_190/https://storage.googleapis.com/assets.twicapp-production.twic.ai/vendors/1workout/Vendor_Cover_1WRKOUT.jpg",
-          "is_subscription": true
+          "is_subscription": false
         }
-      ]
+      ],
+      "name": "Peleton"
+    },
+    {
+      "id": "v4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "products": [
+        {
+          "name": "1 month membership",
+          "price": 39.99,
+          "image_url": "https://res.cloudinary.com/dfkxpkzqx/image/fetch/c_lfill,dpr_2.0,f_auto,h_190/https://storage.googleapis.com/assets.twicapp-production.twic.ai/vendors/oura_ring/Oura_product_1.2.png",
+          "is_subscription": true
+        },
+        {
+          "name": "Lifetime membership",
+          "price": 199.99,
+          "image_url": "https://res.cloudinary.com/dfkxpkzqx/image/fetch/c_lfill,dpr_2.0,f_auto,h_190/https://storage.googleapis.com/assets.twicapp-production.twic.ai/vendors/1workout/Vendor_Cover_1WRKOUT.jpg",
+          "is_subscription": false
+        }
+      ],
+      "name": "Fitness"
+    },
+    {
+      "id": "v5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "products": [
+        {
+          "name": "1 month membership",
+          "price": 39.99,
+          "image_url": "https://res.cloudinary.com/dfkxpkzqx/image/fetch/c_lfill,dpr_2.0,f_auto,h_190/https://storage.googleapis.com/assets.twicapp-production.twic.ai/vendors/oura_ring/Oura_product_1.2.png",
+          "is_subscription": true
+        },
+        {
+          "name": "Lifetime membership",
+          "price": 199.99,
+          "image_url": "https://res.cloudinary.com/dfkxpkzqx/image/fetch/c_lfill,dpr_2.0,f_auto,h_190/https://storage.googleapis.com/assets.twicapp-production.twic.ai/vendors/1workout/Vendor_Cover_1WRKOUT.jpg",
+          "is_subscription": false
+        }
+      ],
+      "name": "ßeþa"
     }
   ]
 }

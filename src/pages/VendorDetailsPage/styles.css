@@ -1,0 +1,40 @@
+.detais-container {
+  color: #eee;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  width: max-content;
+}
+
+.content {
+  margin-bottom: 46px;
+}
+
+.vendor-header {
+  display: flex;
+}
+
+.edit-icon {
+  margin-top: 4px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+
+.products-container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.vedor-name-input {
+  height: 26px;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.error-text {
+  font-size: 12px;
+  color: red;
+}
